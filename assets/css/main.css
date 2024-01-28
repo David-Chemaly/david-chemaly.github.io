@@ -173,7 +173,12 @@ input, select, textarea {
 	p {
 		margin: 0 0 2rem 0;
 	}
-
+	
+	.education p {
+		margin-left: 20px; /* Adjusts the indentation */
+		margin-bottom: 15px; /* Adds space after each education entry */
+	}
+	
 	h1, h2, h3, h4, h5, h6 {
 		color: #ffffff;
 		font-weight: 600;
@@ -1140,9 +1145,12 @@ input, select, textarea {
 			-ms-transition-delay: 0.75s;
 			transition-delay: 0.75s;
 			background-image: linear-gradient(to top, rgba(19, 21, 25, 0.5), rgba(19, 21, 25, 0.5)), url("../../images/overlay.png");
-			background-size: auto, 256px 256px;
-			background-position: center, center;
-			background-repeat: no-repeat, repeat;
+			background-size: auto,
+ 256px 256px;
+			background-position: center,
+ center;
+			background-repeat: no-repeat,
+ repeat;
 			z-index: 2;
 		}
 
