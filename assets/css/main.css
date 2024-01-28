@@ -99,7 +99,7 @@ input, select, textarea {
 	} */
 
 	body {
-		background-image: "images/crop_bg.jpg";
+		background-image: url(images/crop_bg.jpg);
 		background-size: cover;
 		background-repeat: no-repeat;
 		background-attachment: fixed;
