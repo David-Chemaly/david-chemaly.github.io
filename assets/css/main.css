@@ -94,10 +94,17 @@ input, select, textarea {
 		box-sizing: inherit;
 	}
 
-	body {
+	/* body {
 		background: #1b1f22;
-	}
+	} */
 
+	body {
+		background-image: "images/crop_bg.jpg";
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+	}
+	
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
 			-moz-animation: none !important;
 			-webkit-animation: none !important;
@@ -173,9 +180,9 @@ input, select, textarea {
 	p {
 		margin: 0 0 2rem 0;
 	}
-	
+
 	.education p {
-		margin-left: 20px; /* Adjusts the indentation */
+		margin-left: 50px; /* Adjusts the indentation */
 		margin-bottom: 15px; /* Adds space after each education entry */
 	}
 	
