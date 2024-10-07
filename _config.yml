@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "David's Homepage"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "David Chemaly"
 description              : &description "personal description"
-url                      : https://david-chemaly.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://david-chemaly.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "David-Chemaly/david-chemaly.github.io"
 
@@ -21,7 +21,7 @@ repository               : "David-Chemaly/david-chemaly.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "crop_bg.jpg"
+  avatar           : "me_bg.jpg"
   name             : "David Chemaly"
   pronouns         : # example: "she/her"  
   bio              : "2-year PhD Candidate in Astronomy"
