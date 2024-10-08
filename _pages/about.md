@@ -14,4 +14,4 @@ Prior, I pursued my undergratuade and master studies at the University of Montre
 I would love to hear from you!
 ======
 
-You can reach me at dc824@cam.ac.uk or come find me in person at the [Institute of Astronomy (IoA)] (https://www.ast.cam.ac.uk/people/).
+Please feel free to contact me or come find me in person at the [Institute of Astronomy (IoA)](https://www.ast.cam.ac.uk/people/).
