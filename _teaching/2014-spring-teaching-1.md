@@ -2,8 +2,7 @@
 title: "Teaching"
 collection: teaching
 permalink: /
----
-
+excerpt: '
 Supervisor
 Part II: Statistical Physics
 University of Cambridge
@@ -49,3 +48,6 @@ Teacher Assistant
 PHY1441: Electromagnetism
 University of Montreal
 Fall 2019
+'
+date: 2024-10-08
+---
