@@ -32,7 +32,7 @@ Oral presentation with visual support
 
 ### Heavy Lifting: Leveraging Machine Learning to Measure the Mass of Supermassive Black Holes
 
-*SAPHARI 2023*   
+*SAPHARI 2023*  
 Montreal, Canada  
 5 March 2023  
 Principal Audience: Professors and students of the department (100 participants)  

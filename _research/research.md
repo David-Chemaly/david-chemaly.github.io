@@ -15,8 +15,8 @@ I developpe a bayesian framework to constrain dark matter halo shapes usng photo
 
 ---
 
-**Deep Neural Network: Automatic Discovory of Dwarf Galaxies**
+**Leveraging Deep Neural Network for Automatic Discovory of Dwarf Galaxies**
 
-
+Finetuned ZooBot model that was trained on galaxy classification to automatically and accuratly identifiy dwarf galaxies in the UNIONS data that has more than 4PB of data. 
 
 
