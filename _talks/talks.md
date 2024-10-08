@@ -6,13 +6,13 @@ author_profile: true
 show_meta: false
 ---
 
-I have delivered numerous talks and presentations at various conferences, universities, and events. Below is a list of my presentations:
+I have delivered numerous talks and presentations at various conferences, universities, and events.
 
 ---
 
 ### Heavy Lifting: Leveraging Machine Learning to Measure the Mass of Supermassive Black Holes
 
-*CASCA 2023*
+*CASCA 2023*  
 Virtual Symposium  
 19 May 2023  
 Principal Audience: Professors and graduate students (150 participants)  
@@ -22,7 +22,7 @@ Oral presentation with poster
 
 ### Heavy Lifting: Leveraging Machine Learning to Measure the Mass of Supermassive Black Holes
 
-*CRAQ 2023*
+*CRAQ 2023*  
 Montreal, Canada
 8 May 2023  
 Principal Audience: Professors and graduate students (75 participants)  
@@ -32,7 +32,7 @@ Oral presentation with visual support
 
 ### Heavy Lifting: Leveraging Machine Learning to Measure the Mass of Supermassive Black Holes
 
-*SAPHARI 2023* 
+*SAPHARI 2023*   
 Montreal, Canada
 5 March 2023  
 Principal Audience: Professors and students of the department (100 participants)  
