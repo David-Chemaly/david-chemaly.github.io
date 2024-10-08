@@ -6,8 +6,6 @@ author_profile: true
 show_meta: false
 ---
 
-# Teaching
-
 I have over 500 hours of teaching experience spread across 10 different courses and around 250 students at the university level where I led lectures, graded assignments and and held weekly office hours.
 
 ---
