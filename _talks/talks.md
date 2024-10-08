@@ -1,8 +1,9 @@
 ---
 title: "Talks"
 permalink: /talks/
-layout: page
+layout: single
 author_profile: true
+show_meta: false
 ---
 
 # Talks
