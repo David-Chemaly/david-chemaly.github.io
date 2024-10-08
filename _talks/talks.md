@@ -23,7 +23,7 @@ Oral presentation with poster
 ### Heavy Lifting: Leveraging Machine Learning to Measure the Mass of Supermassive Black Holes
 
 *CRAQ 2023*  
-Montreal, Canada
+Montreal, Canada  
 8 May 2023  
 Principal Audience: Professors and graduate students (75 participants)  
 Oral presentation with visual support
@@ -33,7 +33,7 @@ Oral presentation with visual support
 ### Heavy Lifting: Leveraging Machine Learning to Measure the Mass of Supermassive Black Holes
 
 *SAPHARI 2023*   
-Montreal, Canada
+Montreal, Canada  
 5 March 2023  
 Principal Audience: Professors and students of the department (100 participants)  
 Oral presentation with poster
