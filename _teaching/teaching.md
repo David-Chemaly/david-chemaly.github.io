@@ -6,7 +6,19 @@ author_profile: true
 show_meta: false
 ---
 
-I have over 500 hours of teaching experience spread across 10 different courses and around 250 students at the university level where I led lectures, graded assignments and and held weekly office hours.
+I have over 600 hours of teaching experience spread across 10 different courses and around 300 students at the university level where I led lectures, graded assignments and held weekly office hours.
+
+---
+
+**Undergraduate: Mathematics A**  
+*University of Cambridge*  
+Mays 2025
+
+---
+
+**Part II:  Stellar Dynamics and Structure of Galaxies**  
+*University of Cambridge*  
+Michaelmas 2024
 
 ---
 
